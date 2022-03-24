@@ -1,0 +1,5 @@
+PyKinect2/
+PyKinectTk-master/
+*.pkl
+*.csv
+data/
